@@ -1,7 +1,8 @@
 # Java-Client-Server-Restaurant-Application
 
 ## Description 
-Java Swing Destop Application for Setting Dish Orders - Coke From Clients To a Restaurant Server Via a Graphical User Interface Menu Over a TCP Connection.
+Java Swing Destop Application for Setting Dish Orders :fries: :pizza: :falafel: :green_salad: :taco: :beer: :beers:
+From Clients To a Restaurant Server Via a Graphical User Interface Menu Over a TCP Connection.
 
 ## Usage 
 Inorder to run application, run the server first ([runServer.bat](runServer.bat)), 
